@@ -4,7 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build:scripts": "babel ./src --out-dir=./dist"
+    "build:scripts": "babel ./src --out-dir=./dist",
+    "copy:html": "cp ./src/index.html ./dist/index.html",
+    "clean": "rm -rf ./dist/*",
+    "build": "npm-run-all clean copy:html build:script"
   },
   "keywords": [],
   "author": "",
