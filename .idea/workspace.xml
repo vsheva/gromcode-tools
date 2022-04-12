@@ -21,8 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="666efa73-9cf4-40c7-9827-df11a2f490d7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-babel-plugins/02/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/02-babel-plugins/02/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-babel-plugins/02/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/02-babel-plugins/02/src/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/02-babel-plugins/02/src/profile.js" beforeDir="false" afterPath="$PROJECT_DIR$/02-babel-plugins/02/src/profile.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,7 +67,7 @@
       <workItem from="1649783394608" duration="841000" />
       <workItem from="1649784356486" duration="1662000" />
       <workItem from="1649786619707" duration="987000" />
-      <workItem from="1649787762796" duration="7949000" />
+      <workItem from="1649787762796" duration="8635000" />
     </task>
     <servers />
   </component>
