@@ -20,11 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="666efa73-9cf4-40c7-9827-df11a2f490d7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/02-babel-plugins/01/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-babel-plugins/01/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-babel-plugins/01/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-babel-plugins/02/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-babel-plugins/02/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-babel-plugins/02/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-babel-plugins/02/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-babel-plugins/02/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-babel-plugins/02/src/profile.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-babel-plugins/02/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/02-babel-plugins/01/.babelrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-babel-plugins/01/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/02-babel-plugins/01/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +73,7 @@
       <workItem from="1649783394608" duration="841000" />
       <workItem from="1649784356486" duration="1662000" />
       <workItem from="1649786619707" duration="987000" />
-      <workItem from="1649787762796" duration="4272000" />
+      <workItem from="1649787762796" duration="6823000" />
     </task>
     <servers />
   </component>
