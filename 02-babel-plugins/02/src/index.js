@@ -10,5 +10,4 @@ const profile = {
     company: 'Gromcode',
 };
 
-
 printProfile(profile)
