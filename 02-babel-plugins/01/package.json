@@ -1,0 +1,22 @@
+{
+  "name": "01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "copy:html": "cp ./src/index.html ./dist/index.html",
+    "clean": "rm -rf ./dist/*",
+    "build:scripts": "babel ./src --out-dir=./dist",
+    "build": "npm-run-all clean copy:html build:scripts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.17.6",
+    "@babel/core": "^7.17.9",
+    "@babel/plugin-proposal-object-rest-spread": "^7.17.3",
+    "@babel/plugin-transform-arrow-functions": "^7.16.7",
+    "@babel/plugin-transform-template-literals": "^7.16.7"
+  }
+}

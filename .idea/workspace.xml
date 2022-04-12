@@ -20,9 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="666efa73-9cf4-40c7-9827-df11a2f490d7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/02-babel-plugins/01/src/profile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-babel-plugins/01/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-babel-plugins/01/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-babel-plugins/01/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-babel-plugins/01/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/02-babel-plugins/01/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-babel-plugins/02/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/02-babel-plugins/01/.babelrc" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,12 +43,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="27hrvpuT4Y4KgSCIXmY8LctuuX6" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -65,7 +70,7 @@
       <workItem from="1649783394608" duration="841000" />
       <workItem from="1649784356486" duration="1662000" />
       <workItem from="1649786619707" duration="987000" />
-      <workItem from="1649787762796" duration="1353000" />
+      <workItem from="1649787762796" duration="4272000" />
     </task>
     <servers />
   </component>
@@ -82,5 +87,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
