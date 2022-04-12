@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="666efa73-9cf4-40c7-9827-df11a2f490d7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lesson-01/02/desktop.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson-01/02/dist/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson-01/02/dist/scripts/createTask.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson-01/02/dist/scripts/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson-01/02/dist/scripts/renderer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson-01/02/dist/scripts/tasksGateway.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson-01/02/dist/scripts/todoList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson-01/02/dist/scripts/updateTask.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson-01/02/dist/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson-01/02/dist/styles.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson-01/02/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson-01/02/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson-01/02/styles.css.map" afterDir="false" />
-    </list>
+    <list default="true" id="666efa73-9cf4-40c7-9827-df11a2f490d7" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,7 +31,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1649783391485</updated>
-      <workItem from="1649783394608" duration="465000" />
+      <workItem from="1649783394608" duration="841000" />
     </task>
     <servers />
   </component>
