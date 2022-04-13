@@ -20,18 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="666efa73-9cf4-40c7-9827-df11a2f490d7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/03-babel-polyfils/task-02/.babelrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03-babel-polyfils/task-02/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03-babel-polyfils/task-02/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03-babel-polyfils/task-02/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03-babel-polyfils/task-02/src/scripts/createTask.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03-babel-polyfils/task-02/src/scripts/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03-babel-polyfils/task-02/src/scripts/renderer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03-babel-polyfils/task-02/src/scripts/tasksGateway.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03-babel-polyfils/task-02/src/scripts/todoList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03-babel-polyfils/task-02/src/scripts/updateTask.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03-babel-polyfils/task-02/src/styles/index.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-babel-polyfils/task-02/.babelrc" beforeDir="false" afterPath="$PROJECT_DIR$/03-babel-polyfils/task-02/.babelrc" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +73,7 @@
       <workItem from="1649838210339" duration="59000" />
       <workItem from="1649838290458" duration="568000" />
       <workItem from="1649843186003" duration="2322000" />
-      <workItem from="1649846076840" duration="755000" />
+      <workItem from="1649846076840" duration="1496000" />
     </task>
     <servers />
   </component>
