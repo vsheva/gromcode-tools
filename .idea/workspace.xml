@@ -20,19 +20,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="666efa73-9cf4-40c7-9827-df11a2f490d7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/02-babel-plugins/babel-preset/.babelrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-babel-plugins/babel-preset/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-babel-plugins/babel-preset/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-babel-plugins/babel-preset/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-babel-plugins/babel-preset/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-babel-plugins/babel-preset/src/profile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-babel-plugins/02-babel-preset/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-babel-plugins/02-babel-preset/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-babel-plugins/02-babel-preset/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-babel-plugins/02-babel-preset/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-babel-plugins/02-babel-preset/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-babel-plugins/02-babel-preset/src/profile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-babel-polyfils/task-01/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-babel-polyfils/task-01/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-babel-polyfils/task-01/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-babel-polyfils/task-01/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-babel-polyfils/task-01/src/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-babel-plugins/02/.babelrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-babel-plugins/02/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-babel-plugins/02/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-babel-plugins/02/src/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-babel-plugins/02/src/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-babel-plugins/02/src/profile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-babel-plugins/babel-preset/.babelrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-babel-plugins/babel-preset/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-babel-plugins/babel-preset/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-babel-plugins/babel-preset/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-babel-plugins/babel-preset/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-babel-plugins/babel-preset/src/profile.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +69,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -81,7 +87,8 @@
       <workItem from="1649787762796" duration="9863000" />
       <workItem from="1649830478086" duration="772000" />
       <workItem from="1649838210339" duration="59000" />
-      <workItem from="1649838290458" duration="194000" />
+      <workItem from="1649838290458" duration="568000" />
+      <workItem from="1649843186003" duration="1200000" />
     </task>
     <servers />
   </component>
@@ -102,5 +109,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="886" y="160" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1649843276344">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="886" y="160" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1649843276344" />
   </component>
 </project>
