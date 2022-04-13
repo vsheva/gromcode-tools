@@ -20,8 +20,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="666efa73-9cf4-40c7-9827-df11a2f490d7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/02-babel-plugins/babel-preset/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-babel-plugins/babel-preset/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-babel-plugins/babel-preset/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-babel-plugins/babel-preset/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-babel-plugins/babel-preset/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02-babel-plugins/babel-preset/src/profile.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-babel-plugins/02/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/02-babel-plugins/02/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-babel-plugins/02/.babelrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-babel-plugins/02/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-babel-plugins/02/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-babel-plugins/02/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-babel-plugins/02/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-babel-plugins/02/src/profile.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +78,10 @@
       <workItem from="1649783394608" duration="841000" />
       <workItem from="1649784356486" duration="1662000" />
       <workItem from="1649786619707" duration="987000" />
-      <workItem from="1649787762796" duration="9241000" />
+      <workItem from="1649787762796" duration="9863000" />
+      <workItem from="1649830478086" duration="772000" />
+      <workItem from="1649838210339" duration="59000" />
+      <workItem from="1649838290458" duration="194000" />
     </task>
     <servers />
   </component>
@@ -84,6 +98,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
