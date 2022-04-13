@@ -20,13 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="666efa73-9cf4-40c7-9827-df11a2f490d7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/05-webpack-intro/task-01/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-webpack-intro/task-01/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-webpack-intro/task-01/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-webpack-intro/task-01/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-webpack-intro/task-01/src/profile/gateway.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-webpack-intro/task-01/src/profile/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-webpack-intro/task-01/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/05-webpack-intro/task-01/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-webpack-intro/task-01/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/05-webpack-intro/task-01/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +75,8 @@
       <workItem from="1649838290458" duration="568000" />
       <workItem from="1649843186003" duration="2322000" />
       <workItem from="1649846076840" duration="1820000" />
-      <workItem from="1649855588924" duration="9843000" />
+      <workItem from="1649855588924" duration="10176000" />
+      <workItem from="1649873061685" duration="318000" />
     </task>
     <servers />
   </component>
