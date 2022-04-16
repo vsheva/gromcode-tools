@@ -2,26 +2,25 @@ import { renderTasks } from './render';
 import { createTask, getTasksList } from './tasksGateway';
 
 export function onClickAdd() {
-    const taskInputElem = document.querySelector('.task-input');
-    const text = taskInputElem.value;
+  const taskInputElem = document.querySelector('.task-input');
+  const text = taskInputElem.value;
 
-    if (!text) {
-        return;
-    }
+  if (!text) {
+    return;
+  }
 
-    taskInputElem.value = '';
+  taskInputElem.value = '';
 
-    const newTask = {
-        text,
-        done: false,
-        createDate: new Date().toISOString(),
-    };
+  const newTask = {
+    text,
+    done: false,
+    createDate: new Date().toISOString(),
+  };
 
-    createTask(newTask)
-        .then(() => getTasksList())
-        .then(() => renderTasks());
+  createTask(newTask)
+    .then(() => getTasksList())
+    .then(() => renderTasks());
 }
-
 
 /* 1.Prepare data
 2.write data to db

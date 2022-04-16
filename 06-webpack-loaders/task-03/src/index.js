@@ -4,16 +4,15 @@ import { getTasksList } from './list/tasksGateway';
 import './index.scss';
 
 document.addEventListener('DOMContentLoaded', () => {
-    getTasksList()
-        .then(() => renderTasks());
-    initToDoListHandlers();
+  getTasksList().then(() => renderTasks());
+  initToDoListHandlers();
 });
 
-const onStorageChange = (e) => {
-    //e.preventDefault();
-    if (e.key === 'tasksList') {
-        renderTasks();
-    }
+const onStorageChange = e => {
+  // e.preventDefault();
+  if (e.key === 'tasksList') {
+    renderTasks();
+  }
 };
 
 window.addEventListener('storage', onStorageChange);
