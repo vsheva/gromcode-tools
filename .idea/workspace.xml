@@ -20,21 +20,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="666efa73-9cf4-40c7-9827-df11a2f490d7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/06-webpack-loaders/task-02/.babelrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-webpack-loaders/task-02/src/profile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-webpack-loaders/task-03/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-webpack-loaders/task-03/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-webpack-loaders/task-03/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-webpack-loaders/task-03/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-webpack-loaders/task-03/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-webpack-loaders/task-03/src/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-webpack-loaders/task-03/src/list/createTask.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-webpack-loaders/task-03/src/list/deleteTask.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-webpack-loaders/task-03/src/list/list.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-webpack-loaders/task-03/src/list/renderer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-webpack-loaders/task-03/src/list/tasksGateway.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-webpack-loaders/task-03/src/list/todoList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-webpack-loaders/task-03/src/list/updateTask.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-webpack-loaders/task-03/webpack.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06-webpack-loaders/task-02/build/dashboard.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/06-webpack-loaders/task-02/build/profile.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/06-webpack-loaders/task-02/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/06-webpack-loaders/task-02/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06-webpack-loaders/task-02/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/06-webpack-loaders/task-02/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06-webpack-loaders/task-02/src/dashboard/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/06-webpack-loaders/task-02/src/dashboard/renderDashboard.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/06-webpack-loaders/task-02/src/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/06-webpack-loaders/task-02/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/06-webpack-loaders/task-02/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06-webpack-loaders/task-02/src/profile/gateway.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/06-webpack-loaders/task-02/src/profile/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/06-webpack-loaders/task-02/src/profile/printProfile.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/06-webpack-loaders/task-02/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/06-webpack-loaders/task-02/webpack.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,8 +45,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -71,6 +71,12 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Viki\Documents\gromcode-tools\06-webpack-loaders\task-03\src" />
+      <recent name="C:\Users\Viki\Documents\gromcode-tools\06-webpack-loaders\task-03\src\scripts" />
+    </key>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -94,7 +100,7 @@
       <workItem from="1649873061685" duration="5107000" />
       <workItem from="1649882047306" duration="16000" />
       <workItem from="1649945043780" duration="74000" />
-      <workItem from="1650120818606" duration="7547000" />
+      <workItem from="1650120818606" duration="12103000" />
     </task>
     <servers />
   </component>
