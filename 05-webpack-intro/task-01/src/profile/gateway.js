@@ -1,4 +1,4 @@
-// file path: src/profile/gateway.js
+// file path: src/profile/renderProfile.js
 
 export default async function fetchUser(userId) {
     try {

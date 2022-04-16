@@ -1,4 +1,4 @@
-// file path: /profile/gateway.js
+// file path: /profile/renderProfile.js
 
 // экспортируйте fetchUser как export по умолчанию
 
