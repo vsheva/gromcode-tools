@@ -1,6 +1,6 @@
-// file path: src/profile/printProfile.js
+// file path: src/profile.js
 
-export default profileData => {
+export const printProfile = profileData => {
     const { name, company } = profileData;
     console.log(`${name} from ${company}`);
 };
