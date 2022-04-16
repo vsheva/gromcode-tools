@@ -1,14 +1,15 @@
-import { renderTasks } from './renderer.js';
-import { createTask, getTasksList } from './tasksGateway.js';
+import { renderTasks } from './render';
+import { createTask, getTasksList } from './tasksGateway';
 
-export const onCreateTask = () => {
-    const taskTitleInputElem = document.querySelector('.task-input');
+export function onClickAdd() {
+    const taskInputElem = document.querySelector('.task-input');
+    const text = taskInputElem.value;
 
-    const text = taskTitleInputElem.value;
+    if (!text) {
+        return;
+    }
 
-    if (!text) return;
-
-    taskTitleInputElem.value = '';
+    taskInputElem.value = '';
 
     const newTask = {
         text,
@@ -18,8 +19,9 @@ export const onCreateTask = () => {
 
     createTask(newTask)
         .then(() => getTasksList())
-        .then(renderTasks);
-};
+        .then(() => renderTasks());
+}
+
 
 /* 1.Prepare data
 2.write data to db

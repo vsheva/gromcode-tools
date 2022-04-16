@@ -1,5 +1,5 @@
 {
-  "name": "task3",
+  "name": "task-03",
   "version": "1.0.0",
   "main": "webpack.config.js",
   "scripts": {
@@ -9,8 +9,7 @@
     "build:scripts": "webpack --mode=production",
     "clean": "rm -rf ./dist",
     "build": "npm-run-all clean build:* copy:*",
-    "watch:scripts": "webpack -d --watch --devtool eval-source-maps",
-    "watch": "webpack --mode=development --devtool source-map -w"
+    "watch": "webpack --mode=development --devtool eval-source-map -w"
   },
   "keywords": [],
   "author": "",
