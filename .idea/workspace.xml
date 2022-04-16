@@ -20,16 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="666efa73-9cf4-40c7-9827-df11a2f490d7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06-webpack-loaders/task-03/dist/bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/06-webpack-loaders/task-03/dist/bundle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06-webpack-loaders/task-03/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/06-webpack-loaders/task-03/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/06-webpack-loaders/task-03/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/06-webpack-loaders/task-03/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06-webpack-loaders/task-03/src/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/06-webpack-loaders/task-03/src/index.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06-webpack-loaders/task-03/src/list/createTask.js" beforeDir="false" afterPath="$PROJECT_DIR$/06-webpack-loaders/task-03/src/list/createTask.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06-webpack-loaders/task-03/src/list/deleteTask.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/06-webpack-loaders/task-03/src/list/list.scss" beforeDir="false" afterPath="$PROJECT_DIR$/06-webpack-loaders/task-03/src/list/list.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06-webpack-loaders/task-03/src/list/renderer.js" beforeDir="false" afterPath="$PROJECT_DIR$/06-webpack-loaders/task-03/src/list/render.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06-webpack-loaders/task-03/src/list/updateTask.js" beforeDir="false" afterPath="$PROJECT_DIR$/06-webpack-loaders/task-03/src/list/updateTask.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +86,7 @@
       <workItem from="1649873061685" duration="5107000" />
       <workItem from="1649882047306" duration="16000" />
       <workItem from="1649945043780" duration="74000" />
-      <workItem from="1650120818606" duration="14247000" />
+      <workItem from="1650120818606" duration="14579000" />
     </task>
     <servers />
   </component>

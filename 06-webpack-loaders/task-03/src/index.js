@@ -10,6 +10,7 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 
 const onStorageChange = (e) => {
+    //e.preventDefault();
     if (e.key === 'tasksList') {
         renderTasks();
     }
