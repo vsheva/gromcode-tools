@@ -7,4 +7,5 @@ const profileData = {
 };
 
 renderProfile(profileData);
-alert('App is ready');
+
+//alert('App is ready');
