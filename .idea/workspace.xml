@@ -20,34 +20,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="666efa73-9cf4-40c7-9827-df11a2f490d7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/07-webpack-plugins/task-01/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-webpack-plugins/task-01/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-webpack-plugins/task-01/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-webpack-plugins/task-01/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-webpack-plugins/task-01/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-webpack-plugins/task-01/src/profile/profile.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-webpack-plugins/task-01/src/profile/renderProfile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-webpack-plugins/task-01/webpack.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-webpack-plugins/task-02/.babelrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-webpack-plugins/task-02/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-webpack-plugins/task-02/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-webpack-plugins/task-02/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-webpack-plugins/task-02/src/profile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-webpack-plugins/task-02/webpack.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-webpack-plugins/task-03/.babelrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-webpack-plugins/task-03/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-webpack-plugins/task-03/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-webpack-plugins/task-03/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-webpack-plugins/task-03/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-webpack-plugins/task-03/src/index.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-webpack-plugins/task-03/src/list/createTask.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-webpack-plugins/task-03/src/list/list.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-webpack-plugins/task-03/src/list/render.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-webpack-plugins/task-03/src/list/tasksGateway.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-webpack-plugins/task-03/src/list/todoList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-webpack-plugins/task-03/src/list/updateTask.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-webpack-plugins/task-03/webpack.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-webpack-plugins/task-02/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/07-webpack-plugins/task-02/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-webpack-plugins/task-02/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/07-webpack-plugins/task-02/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-webpack-plugins/task-02/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/07-webpack-plugins/task-02/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-webpack-plugins/task-02/src/profile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-webpack-plugins/task-02/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/07-webpack-plugins/task-02/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-webpack-plugins/task-03/.babelrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-webpack-plugins/task-03/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-webpack-plugins/task-03/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-webpack-plugins/task-03/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/07-webpack-plugins/task-02/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-webpack-plugins/task-03/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-webpack-plugins/task-03/src/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/07-webpack-plugins/task-02/src/index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-webpack-plugins/task-03/src/list/createTask.js" beforeDir="false" afterPath="$PROJECT_DIR$/07-webpack-plugins/task-02/src/list/createTask.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-webpack-plugins/task-03/src/list/list.scss" beforeDir="false" afterPath="$PROJECT_DIR$/07-webpack-plugins/task-02/src/list/list.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-webpack-plugins/task-03/src/list/render.js" beforeDir="false" afterPath="$PROJECT_DIR$/07-webpack-plugins/task-02/src/list/render.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-webpack-plugins/task-03/src/list/tasksGateway.js" beforeDir="false" afterPath="$PROJECT_DIR$/07-webpack-plugins/task-02/src/list/tasksGateway.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-webpack-plugins/task-03/src/list/todoList.js" beforeDir="false" afterPath="$PROJECT_DIR$/07-webpack-plugins/task-02/src/list/todoList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-webpack-plugins/task-03/src/list/updateTask.js" beforeDir="false" afterPath="$PROJECT_DIR$/07-webpack-plugins/task-02/src/list/updateTask.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-webpack-plugins/task-03/webpack.config.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +107,8 @@
       <workItem from="1649873061685" duration="5107000" />
       <workItem from="1649882047306" duration="16000" />
       <workItem from="1649945043780" duration="74000" />
-      <workItem from="1650120818606" duration="21672000" />
+      <workItem from="1650120818606" duration="22189000" />
+      <workItem from="1650189202630" duration="1700000" />
     </task>
     <servers />
   </component>

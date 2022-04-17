@@ -1,22 +1,18 @@
-// file path: src/index.js
+import { renderTasks } from './list/render';
+import { initToDoListHandlers } from './list/todoList';
+import { getTasksList } from './list/tasksGateway';
+import './index.scss';
 
-import { printProfile } from './profile';
+document.addEventListener('DOMContentLoaded', () => {
+  getTasksList().then(() => renderTasks());
+  initToDoListHandlers();
+});
 
-const userData = {
-    name: 'Tom',
-    age: 17,
+const onStorageChange = e => {
+  // e.preventDefault();
+  if (e.key === 'tasksList') {
+    renderTasks();
+  }
 };
 
-const profile = {
-    ...userData,
-    company: 'Gromcode',
-};
-
-printProfile(profile);
-
-const data = [1, 2, [3, 4, [5, 6]]];
-
-const result = data.flat(2);
-console.log(result);
-
-Promise.resolve().finally();
+window.addEventListener('storage', onStorageChange);
