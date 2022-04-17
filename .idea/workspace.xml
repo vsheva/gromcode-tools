@@ -20,19 +20,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="666efa73-9cf4-40c7-9827-df11a2f490d7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/08-webpack-DevServer/task-02/.babelrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-webpack-DevServer/task-02/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-webpack-DevServer/task-02/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-webpack-DevServer/task-02/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-webpack-DevServer/task-02/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-webpack-DevServer/task-02/src/index.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-webpack-DevServer/task-02/src/list/createTask.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-webpack-DevServer/task-02/src/list/list.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-webpack-DevServer/task-02/src/list/render.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-webpack-DevServer/task-02/src/list/tasksGateway.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-webpack-DevServer/task-02/src/list/todoList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-webpack-DevServer/task-02/src/list/updateTask.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08-webpack-DevServer/task-02/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-code-formating-eslint/task-02/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-code-formating-eslint/task-02/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-code-formating-eslint/task-02/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-code-formating-eslint/task-02/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-code-formating-eslint/task-02/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-code-formating-eslint/task-02/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-code-formating-eslint/task-02/src/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-code-formating-eslint/task-02/src/list/createTask.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-code-formating-eslint/task-02/src/list/list.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-code-formating-eslint/task-02/src/list/render.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-code-formating-eslint/task-02/src/list/tasksGateway.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-code-formating-eslint/task-02/src/list/todoList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-code-formating-eslint/task-02/src/list/updateTask.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09-code-formating-eslint/task-02/webpack.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -103,7 +104,7 @@
       <workItem from="1649882047306" duration="16000" />
       <workItem from="1649945043780" duration="74000" />
       <workItem from="1650120818606" duration="22189000" />
-      <workItem from="1650189202630" duration="7794000" />
+      <workItem from="1650189202630" duration="11190000" />
     </task>
     <servers />
   </component>
